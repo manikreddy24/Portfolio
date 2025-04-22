@@ -1,6 +1,10 @@
-/* Custom Styles */
 .font-display {
     font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    margin: 10px;
+    margin-top: 20px;
 }
 
 .font-body {
@@ -375,5 +379,10 @@
 @media (min-width: 992px) {
     .lg-text-6xl {
         font-size: 3.75rem;
+    }
+
+    .about-img {
+        width: 370px;
+        height: 350px;
     }
 }
